@@ -14,9 +14,9 @@ Navigate to your project-name via cd project-name
 Create Controler,Module and Service using the commands 
 
 Use the Controler,Module and Service names in this repository
-1. nest g controller controler-name-> to create controler
-2. nest g modue module-name-> to create module
-3. nest g service service-name-> to create service
+1. nest g controller users-> to create controler
+2. nest g module users-> to create module
+3. nest g service users-> to create service
 
 copy and paste the code in the Controler,Module and Service to newly created project
 
